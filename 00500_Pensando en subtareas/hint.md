@@ -6,5 +6,5 @@ Quizás tengas que hacer un poco de esfuerzo para "ver la línea", pero básicam
  cell 0 0 Negro 1
  cell 1 0 Negro 1
  cell 2 0 Negro 1
- head 2 0
+ head 0 0
 </gs-board>
