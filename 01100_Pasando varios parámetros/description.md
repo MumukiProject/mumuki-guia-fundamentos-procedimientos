@@ -14,7 +14,7 @@ procedure DibujarLinea3(color, direccion) {
 }
 ```
 
-(Para simplificar la explicación, por ahora vamos a olvidarnos de la posición final del cabezal. Ya volveremos con eso en las siguientes guías.)
+(Para simplificar la explicación, por ahora vamos a olvidarnos de la posición final del cabezal).
 
 > Tu tarea es ahora escribir un `program` que use la nueva versión de `DibujarLinea3` (no tenés que crearla, sólo usarla) y dibuje un cuadrado multicolor como este:
 
