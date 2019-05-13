@@ -1,0 +1,1 @@
+Acordate que los procedimientos se definen una vez sola, y `Poner3Verdes` ya lo definiste en uno de los ejercicios anteriores. Así que acá simplemente tenés que usarlo, pensando cuantas veces necesitas hacerlo. :smile:

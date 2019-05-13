@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarCuadradoNegroDeLado3
+  inspection: HasUsage:DibujarLineaNegra3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarCuadradoNegroDeLado3
+  inspection: Not:HasUsage:VolverAtras

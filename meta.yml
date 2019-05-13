@@ -1,0 +1,25 @@
+---
+name: Procedimientos
+locale: es
+type: learning
+beta: false
+language: gobstones
+id_format: "%05d"
+order:
+- 100
+- 200
+- 300
+- 400
+- 450
+- 500
+- 600
+- 700
+- 800
+- 1104
+- 900
+- 1000
+- 1100
+- 1101
+- 1102
+- 1103
+private: false
