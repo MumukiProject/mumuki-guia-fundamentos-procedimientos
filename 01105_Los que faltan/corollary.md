@@ -1,0 +1,1 @@
+Muy bien peeero, se volvió medio repetitiva la tarea de dibujar 4 procedimientos iguales en los cuales solo cambia el color ¿no?
