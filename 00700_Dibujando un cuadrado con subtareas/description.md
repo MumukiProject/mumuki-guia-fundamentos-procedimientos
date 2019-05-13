@@ -1,6 +1,6 @@
-Perfecto, ¡ya podemos hacer lo que queríamos: construir el cuadrado!
+Perfecto, ¡ya podemos hacer lo que queríamos: dibujar el cuadrado!
 
-> Definí un procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero.
+> Definí el procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero.
  
 <gs-board>
   GBB/1.0
