@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarLineaNegra3
+  binding: DibujarLineaVerde3
   inspection: HasUsage:VolverAtras

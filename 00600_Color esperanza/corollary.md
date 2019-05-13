@@ -1,0 +1,1 @@
+Excelente, pero todavía nos faltan dos colores más. ¿Ya sabes lo que hay que hacer?

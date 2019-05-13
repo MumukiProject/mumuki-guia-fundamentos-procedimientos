@@ -1,5 +1,0 @@
-procedure Poner3Verdes() {
-  Poner(Verde)
-  Poner(Verde)
-  Poner(Verde)    
-}

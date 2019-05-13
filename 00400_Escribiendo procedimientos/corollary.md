@@ -1,3 +1,0 @@
-En Gobstones, como en muchos otros lenguajes, los nombres se escriben siguiendo el estilo [CamelCase](http://es.wikipedia.org/wiki/CamelCase), es decir: sin espacios ni signos de puntuación y usando una mayúscula para cada palabra (si conocés Twitter, probablemente te habrás dado cuenta que los hashtags usan esta misma convención). 
-
-Algunos ejemplos válidos: `DibujarCuadrado()`, `Sacar10Bolitas()`, `LlenarTableroDeBolitasRojas()`.

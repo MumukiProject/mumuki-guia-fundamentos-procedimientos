@@ -7,11 +7,6 @@ teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order:
-- 100
-- 200
-- 300
-- 400
-- 450
 - 500
 - 600
 - 700

@@ -1,8 +1,0 @@
----
-expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Poner3Verdes
-  inspection: Not:HasBinding
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
-  inspection: HasUsage:Poner3Verdes
