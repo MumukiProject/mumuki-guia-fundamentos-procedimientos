@@ -8,9 +8,9 @@ language: gobstones
 id_format: "%05d"
 order:
 - 500
+- 700
 - 600
 - 1105
-- 700
 - 800
 - 1104
 - 900
