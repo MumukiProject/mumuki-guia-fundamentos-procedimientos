@@ -1,4 +1,4 @@
-Perfecto, ¡ya podemos hacer lo que queríamos: dibujar el cuadrado!
+¡Ya podemos hacer lo que queríamos: dibujar el cuadrado!
 
 > Definí el procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero.
  
