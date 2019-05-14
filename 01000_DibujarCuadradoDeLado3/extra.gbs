@@ -1,13 +1,8 @@
-procedure MoverOeste2() {
+/*...previousSolution...*/
+
+procedure VolverAtras() {
 	Mover(Oeste)
 	Mover(Oeste)
 }
 
-procedure DibujarLinea3(color) {
-	Poner(color)
-	Mover(Este)
-	Poner(color)
-	Mover(Este)
-	Poner(color)
-	MoverOeste2()
-}
+/*...solution[2]...*/
