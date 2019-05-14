@@ -1,4 +1,4 @@
-Empecemos con algo fácil: supongamos que queremos **generalizar** un procedimiento `Poner3Verdes` (que pone 3 bolitas verdes en un casillero), para que funcione con cualquier color que queramos (pero uno solo por vez). Lo que necesitamos es agregarle al procedimiento una especie de _agujero_...
+Empecemos con algo fácil: supongamos que queremos **generalizar** un procedimiento `Poner3Verdes` (que pone 3 bolitas verdes en un casillero), para que funcione con cualquier color que queramos (pero uno solo por vez). Lo que necesitamos es agregarle al procedimiento una especie de _agujero_...:open_mouth:
 
 ```gobstones
 procedure Poner3(color) {
@@ -17,5 +17,5 @@ program {
 }
 ```
 
-> Escribí los códigos anteriores en el editor y fijate qué pasa. 
+> Escribí los códigos anteriores en el editor y fijate qué pasa. :eyes:
 
