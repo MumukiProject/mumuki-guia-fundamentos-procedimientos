@@ -1,4 +1,4 @@
-Entendamos qué acabamos de hacer :hushed:.
+Entendamos qué acabamos de hacer. :hushed:
 
 Lo primero que hicimos fue declarar un procedimiento, pero con una pequeña diferencia: toma un _parámetro_, llamado `color`.
 
@@ -42,7 +42,7 @@ Poner(Rojo)
 Poner(Rojo)
 ```
 
-Notá como cada vez que aparece `color`, este es reemplazado por el valor que pasamos en la invocación. 
+Notá como cada vez que aparece `color`, este es reemplazado por el valor que pasamos en la invocación. :raised_hands:
 
 > Veamos si se va entendiendo: escribí un programa que ponga tres bolitas verdes usando el procedimiento `Poner3`.
 
