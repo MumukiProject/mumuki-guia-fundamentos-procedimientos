@@ -12,8 +12,6 @@ procedure DibujarLinea3(color, direccion) {
 }
 ```
 
-(Para simplificar la explicación, por ahora vamos a olvidarnos de la posición final del cabezal).
-
 > Escribí un `program` que use la nueva versión de `DibujarLinea3` (no tenés que crearla, sólo usarla) y dibuje un cuadrado multicolor como este:
 >
 <gs-board>
