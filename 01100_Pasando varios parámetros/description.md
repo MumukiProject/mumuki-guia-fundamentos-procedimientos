@@ -1,6 +1,4 @@
-Los procedimientos también pueden tener más de un **parámetro** (o _agujerito_). :open_mouth:
-
-Por ejemplo: ¿qué pasaría si ahora queremos que `DibujarLinea3` sirva para dibujar líneas en cualquier dirección? :thought_balloon: Sin dudas vamos a necesitar que quien use el procedimiento nos diga, además del `color`, en qué `direccion` quiere que dibujemos la linea; y para eso necesitamos un nuevo **parámetro**. :sunglasses:
+¿Qué pasaría si ahora queremos que `DibujarLinea3` sirva para dibujar líneas en cualquier dirección? :thought_balloon: Sin dudas vamos a necesitar que quien use el procedimiento nos diga, además del `color`, en qué `direccion` quiere que dibujemos la linea; y para eso necesitarìamos un nuevo **parámetro** :open_mouth:. Por suerte ¡los procedimientos también pueden tener más de un **parámetro**! :raised_hands:
 
 ¿Y cómo se hace esto? Muy fácil, al igual que como hacemos al escribir, vamos a **separar cada parámetro usando comas**. Mirá cómo queda:
 
@@ -16,8 +14,8 @@ procedure DibujarLinea3(color, direccion) {
 
 (Para simplificar la explicación, por ahora vamos a olvidarnos de la posición final del cabezal).
 
-> Tu tarea es ahora escribir un `program` que use la nueva versión de `DibujarLinea3` (no tenés que crearla, sólo usarla) y dibuje un cuadrado multicolor como este:
-
+> Escribí un `program` que use la nueva versión de `DibujarLinea3` (no tenés que crearla, sólo usarla) y dibuje un cuadrado multicolor como este:
+>
 <gs-board>
   GBB/1.0
     size 4 4
@@ -35,3 +33,4 @@ procedure DibujarLinea3(color, direccion) {
     cell 0 0 Verde 1
     head 0 0
 </gs-board>
+> No te preocupes por la posición final del cabezal
