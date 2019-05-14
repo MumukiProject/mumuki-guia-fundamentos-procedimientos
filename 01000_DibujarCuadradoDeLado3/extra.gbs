@@ -4,5 +4,3 @@ procedure VolverAtras() {
 	Mover(Oeste)
 	Mover(Oeste)
 }
-
-/*...solution[2]...*/
