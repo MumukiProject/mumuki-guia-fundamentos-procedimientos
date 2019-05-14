@@ -1,6 +1,6 @@
-Como te adelantamos en el ejercicio anterior, los procedimientos pueden tener más de un **parámetro** (o _agujerito_). 
+Los procedimientos también pueden tener más de un **parámetro** (o _agujerito_). :open_mouth:
 
-Por ejemplo: ¿qué pasaría si ahora queremos que `DibujarLinea3` sirva para dibujar líneas en cualquier dirección? Sin dudas vamos a necesitar que quien use el procedimiento nos diga, además del `color`, en qué `direccion` quiere que dibujemos la linea; y para eso necesitamos un nuevo **parámetro**.
+Por ejemplo: ¿qué pasaría si ahora queremos que `DibujarLinea3` sirva para dibujar líneas en cualquier dirección? :thought_balloon: Sin dudas vamos a necesitar que quien use el procedimiento nos diga, además del `color`, en qué `direccion` quiere que dibujemos la linea; y para eso necesitamos un nuevo **parámetro**. :sunglasses:
 
 ¿Y cómo se hace esto? Muy fácil, al igual que como hacemos al escribir, vamos a **separar cada parámetro usando comas**. Mirá cómo queda:
 
