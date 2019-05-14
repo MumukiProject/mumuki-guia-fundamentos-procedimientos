@@ -1,7 +1,6 @@
-
+/*...solution[1]...*/
 
 procedure VolverAtras() {
 	Mover(Oeste)
 	Mover(Oeste)
 }
-
