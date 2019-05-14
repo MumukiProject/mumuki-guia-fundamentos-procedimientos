@@ -1,4 +1,4 @@
-¿Qué pasaría si ahora queremos que `DibujarLinea3` sirva para dibujar líneas en cualquier dirección? :thought_balloon: Sin dudas vamos a necesitar que quien use el procedimiento nos diga, además del `color`, en qué `direccion` quiere que dibujemos la linea; y para eso necesitarìamos un nuevo **parámetro** :open_mouth:. Por suerte ¡los procedimientos también pueden tener más de un **parámetro**! :raised_hands:
+¿Y si queremos que `DibujarLinea3` sirva para dibujar líneas en cualquier dirección? :thought_balloon: Sin dudas vamos a necesitar que quien use el procedimiento nos diga, además del `color`, en qué `direccion` quiere que dibujemos la linea; y para eso necesitarìamos un nuevo **parámetro** :open_mouth:. Por suerte ¡los procedimientos también pueden tener más de un **parámetro**! :raised_hands:
 
 ¿Y cómo se hace esto? Muy fácil, al igual que como hacemos al escribir, vamos a **separar cada parámetro usando comas**. Mirá cómo queda:
 
