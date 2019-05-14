@@ -1,7 +1,5 @@
 ¡Ya podemos dibujar nuestro cuadrado!
 
-> Definí el procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero.
- 
 <gs-board>
   GBB/1.0
    size 3 3
@@ -16,3 +14,5 @@
    cell 2 2 Negro 1
    head 0 2
 </gs-board>
+
+> Definí el procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero.
