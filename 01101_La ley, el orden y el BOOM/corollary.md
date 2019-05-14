@@ -1,3 +1,3 @@
-Ok, hizo BOOM, pero ¿qué quiere decir eso de `El argumento de Poner debería ser un color`?
+Ok, hizo BOOM :boom:, pero ¿qué quiere decir eso de _El argumento de Poner debería ser un color_? :thought_balloon:
 
-Como pasamos los argumentos al revés, donde se esperaba un color llegó una dirección, que al intentar ser utilizada como argumento de `Poner` terminó provocando la autodestrucción del cabezal - porque claro, `Poner(Norte)` o `Poner(Este)` no tiene ningún sentido y por lo tanto no se puede ejecutar.
+Como pasamos los argumentos al revés, donde se esperaba un color llegó una dirección, que al intentar ser utilizada como argumento de `Poner` terminó provocando la autodestrucción del cabezal :cold_sweat:. ¡Pero es lo que queremos! `Poner(Norte)` o `Poner(Este)` no se pueden ejecutar porque no tienen ningún sentido. :sweat_smile:

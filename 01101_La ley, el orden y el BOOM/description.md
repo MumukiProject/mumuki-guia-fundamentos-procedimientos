@@ -1,3 +1,3 @@
-Recién te decíamos que el orden en que pasabamos los **argumentos** era importante pero nunca te dijimos por qué. :smirk:
+Recién te decíamos que el orden en que pasabamos los **argumentos** era importante pero nunca te dijimos por qué :smirk:. ¡Vamos a verlo!
 
-> Experimentalo: escribí un programa cualquiera que use `DibujarLinea3`, pero esta vez intentá usarlo con los argumentos invertidos (primero la dirección y luego el color).
+> Escribí un programa cualquiera que use `DibujarLinea3`, pero esta vez intentá usarlo con los argumentos invertidos. :arrow_right::arrow_left:
