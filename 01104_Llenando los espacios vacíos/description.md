@@ -42,6 +42,7 @@ Poner(Rojo)
 Poner(Rojo)
 ```
 
-Fijate como cada vez que aparece `color` se reemplaza por el valor que le _pasamos_ a `Poner` :raised_hands:. Veamos si se va entendiendo:
+Fijate como cada vez que aparece `color` se reemplaza por el valor que le _pasamos_ a `Poner` :raised_hands:. Veamos si se entiende:
+
 > Escribí un programa que ponga tres bolitas verdes usando el procedimiento `Poner3`.
 
