@@ -1,6 +1,4 @@
-¡Vamos a dibujar un cuadrado! :raised_hands: Dividiendo cada parte del problema en procedimientos más pequeños, vamos a plantear la siguiente **estrategia**: construir al cuadrado como tres líneas de tres bolitas, una encima de la otra.
-
-¿Y cómo se ve una línea hecha con bolitas? Así:
+¡Vamos a dibujar un cuadrado! :raised_hands: Dividiendo cada parte del problema en procedimientos más pequeños, vamos a plantear la siguiente **estrategia**: construir al cuadrado como tres líneas de tres bolitas, una encima de la otra. ¿Y cómo se ve una línea hecha con bolitas? Así:
 
 <gs-board>
  GBB/1.0
