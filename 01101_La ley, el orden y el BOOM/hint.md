@@ -1,1 +1,1 @@
-Con parámetros invertidos nos referimos a que primero la dirección y luego el color. 
+Con parámetros invertidos nos referimos a que primero pases la dirección y después el color. 
