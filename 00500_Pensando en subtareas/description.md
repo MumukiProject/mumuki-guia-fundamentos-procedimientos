@@ -11,8 +11,8 @@
 
 ¡Arranquemos por ahí! :muscle:
 
-En algunos ejercicios (como este :relaxed:) vas a ver una pestaña _Biblioteca_, que tendrá código para facilitar la resolución del problema.
+En algunos ejercicios (como este :relaxed:) vas a ver la pestaña _Biblioteca_, que tendrá código para facilitar la resolución del problema.
 
 > Escribí el procedimiento `DibujarLineaNegra3` que, como su nombre lo indica, _dibuje una línea_ poniendo 3 bolitas negras consecutivas hacia el Este y dejando el cabezal donde comenzó. Invocalo en un `program`.
 >
-Para que no escribas tanto, te regalamos el procedimiento `VolverAtras` (podés ver cómo está hecho en la **Biblioteca**).
+Para que no escribas tanto, te regalamos el procedimiento `VolverAtras` que lo podés ver en la **Biblioteca**.
