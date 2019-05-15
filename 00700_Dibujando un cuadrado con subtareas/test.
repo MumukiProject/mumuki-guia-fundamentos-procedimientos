@@ -1,4 +1,4 @@
-subject: DibujarCuadradoNegroDeLado3
+check_head_position: true
 
 examples:
  - initial_board: |

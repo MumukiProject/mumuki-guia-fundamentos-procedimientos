@@ -13,6 +13,6 @@
 
 En algunos ejercicios (como este :relaxed:) vas a ver una pestaña _Biblioteca_, que tendrá código para facilitar la resolución del problema.
 
-> Escribí un procedimiento `DibujarLineaNegra3` que, como su nombre lo indica, _dibuje una línea_ poniendo 3 bolitas negras consecutivas hacia el Este y dejando el cabezal donde comenzó. Invocalo en un `program`.
+> Escribí el procedimiento `DibujarLineaNegra3` que, como su nombre lo indica, _dibuje una línea_ poniendo 3 bolitas negras consecutivas hacia el Este y dejando el cabezal donde comenzó. Invocalo en un `program`.
 >
 Para que no escribas tanto, te regalamos el procedimiento `VolverAtras` (podés ver cómo está hecho en la **Biblioteca**).

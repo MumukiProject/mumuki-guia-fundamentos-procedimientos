@@ -15,4 +15,4 @@
    head 0 2
 </gs-board>
 
-> Definí el procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero.
+> Definí, e invoca en un `program`, el procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero.
