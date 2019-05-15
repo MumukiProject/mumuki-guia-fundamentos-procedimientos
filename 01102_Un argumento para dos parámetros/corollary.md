@@ -1,6 +1,6 @@
-Bueno sí, BOOM, estaba cantado. No vamos a hacer la prueba, pero pasa lo mismo si la cantidad de argumentos es mayor a la de parámetros.
+¡BOOM de nuevo :boom:! Como te imaginarás, si le pasamos más argumentos de los que espera pasará lo mismo. :wink:
 
-Resumiendo, cosas que **no hay que hacer** al invocar un procedimiento:
+Entonces es importante recordar que al invocar un procedimiento **no debemos**:
 
 * pasarle menos o más argumentos de los que necesita;
 * pasarle los argumentos en un orden diferente al que espera.
