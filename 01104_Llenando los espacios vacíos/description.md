@@ -10,7 +10,7 @@ procedure Poner3(color) {
 }
 ```
 
-Los parámetros (esos nombres que van entre paréntesis) son especiales, porque son reemplazados por valores concretos cuando los invocamos. Por ejemplo, si lo invocamos así..
+¿Y qué es un parámetro? Son esos nombres que van entre paréntesis para ser reemplazados por valores concretos cuando invocamos al procedimiento. Por ejemplo, si lo invocamos así..
 
 ```gobstones
 program {
@@ -42,7 +42,6 @@ Poner(Rojo)
 Poner(Rojo)
 ```
 
-Notá como cada vez que aparece `color`, este es reemplazado por el valor que pasamos en la invocación. :raised_hands:
-
-> Veamos si se va entendiendo: escribí un programa que ponga tres bolitas verdes usando el procedimiento `Poner3`.
+Fijate como cada vez que aparece `color` se reemplaza por el valor que le _pasamos_ a `Poner` :raised_hands:. Veamos si se va entendiendo:
+> Escribí un programa que ponga tres bolitas verdes usando el procedimiento `Poner3`.
 
