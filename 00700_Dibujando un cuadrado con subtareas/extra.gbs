@@ -3,5 +3,12 @@ procedure VolverAtras() {
 	Mover(Oeste)
 }
 
-/*...previousSolution...*/
+procedure DibujarLineaNegra3() {
+  Poner(Negro)
+  Mover(Este)
+  Poner(Negro)
+  Mover(Este)
+  Poner(Negro)
+  VolverAtras()
+}
 
