@@ -1,4 +1,4 @@
-¡Empecemos con algo fácil! :raised_hands: Supongamos que tenemos un procedimiento llamado `Poner3Verdes`, que pone 3 bolitas verdes en un casillero, y lo queremos **generalizar** para que funcione con cualquier color que queramos (pero uno solo por vez). Lo que necesitamos es agregarle al procedimiento una especie de _agujero_...:open_mouth:
+¡Empecemos con algo fácil! :raised_hands: Supongamos que tenemos un procedimiento llamado `Poner3Verdes`, que pone 3 bolitas verdes en un casillero, y lo queremos **generalizar** para que funcione con cualquier color que queramos (pero uno solo por vez). Lo que necesitamos es agregarle al procedimiento una especie de _agujero_... 
 
 ```gobstones
 procedure Poner3(color) {
@@ -8,7 +8,7 @@ procedure Poner3(color) {
 }
 ```
 
-...que luego pueda ser completado cada vez que se use: 
+...que luego pueda ser completado con el color que queramos: 
 
 ```gobstones
 program {
