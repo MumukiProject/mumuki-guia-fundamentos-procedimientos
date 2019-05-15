@@ -1,8 +1,8 @@
-Para terminar de redondear esto de los múltiples parámetros, te vamos a pedir que implementes un procedimiento ¡con tres parámetros!
+Para terminar esta lección vamos a definir un procedimiento  llamado `Triada` ¡que recibe tres parámetros! :open_mouth:
 
-Lo que tiene que hacer este procedimiento, que llamaremos `Triada`, es sencillo: poner tres bolitas, una al lado de la otra hacia el Este, y correspondiendo el color con el parámetro correspondiente. El cabezal empieza en el origen y debe terminar sobre la última bolita de la tríada.
+`Triada` recibe tres colores por parámetro y pone tres bolitas, una al lado de la otra hacia el Este, en el mismo orden en que se reciben. El cabezal empieza en el origen y debe terminar sobre la última bolita de la tríada.
 
-Por ejemplo `Triada(Rojo, Azul, Verde)` produciría este resultado:
+Por ejemplo: `Triada(Rojo, Azul, Verde)` nos da como tablero resultante:
 
 <gs-board>
   GBB/1.0
@@ -13,7 +13,7 @@ Por ejemplo `Triada(Rojo, Azul, Verde)` produciría este resultado:
     head 2 0
 </gs-board>
 
-mientras que `Triada(Azul, Verde, Rojo)` haría esto otro:
+mientras que `Triada(Azul, Verde, Rojo)`:
 
 <gs-board>
   GBB/1.0
@@ -24,4 +24,4 @@ mientras que `Triada(Azul, Verde, Rojo)` haría esto otro:
     head 2 0
 </gs-board>
 
-> Implementá el procedimiento `Triada`, que tiene que tomar 3 parámetros. 
+> Definí el procedimiento `Triada`. 
