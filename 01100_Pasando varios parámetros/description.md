@@ -1,6 +1,6 @@
 ¿Y si queremos que `DibujarLinea3` sirva también para dibujar líneas en cualquier dirección? :thought_balloon: Sin dudas tenemos que decirle al procedimiento, además del `color`, en qué `direccion` debe dibujar la línea; y para eso vamos a necesitar un nuevo **parámetro** :open_mouth:. Por suerte, ¡los procedimientos también pueden tener más de un **parámetro**! :raised_hands:
 
-¿Y cómo se hace esto? Muy fácil, al igual que como hacemos al escribir, vamos a **separar cada parámetro usando comas**. Mirá cómo queda:
+¿Y cómo se hace esto? Muy fácil, al igual que como hacemos al escribir, vamos a **separar cada parámetro usando comas** de esta manera:
 
 ```gobstones
 procedure DibujarLinea3(color, direccion) {
