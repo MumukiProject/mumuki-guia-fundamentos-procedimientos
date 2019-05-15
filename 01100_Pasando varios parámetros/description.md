@@ -32,4 +32,4 @@ procedure DibujarLinea3(color, direccion) {
     head 0 0
 </gs-board>
 >
-> No te preocupes por la posición final del cabezal
+> No te preocupes por la posición final del cabezal.
