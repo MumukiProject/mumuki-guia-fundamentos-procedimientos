@@ -1,1 +1,1 @@
-`DibujarLineaVerde3()` es igual a `DibujarLineaNegra3()` solo que dibuja una linea verde. :wink:
+`DibujarLineaVerde3` es igual a `DibujarLineaNegra3` solo que dibuja una linea verde. :wink:

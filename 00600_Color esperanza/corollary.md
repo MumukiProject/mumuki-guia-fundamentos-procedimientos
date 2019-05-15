@@ -1,1 +1,1 @@
-¡Excelente! Pero todavía nos faltan dos colores más :large_blue_circle::red_circle:. Ya te imaginarás lo que hay que hacer. :thought_balloon:
+¡Excelente! Pero todavía nos faltan dos colores más :large_blue_circle::red_circle:. Ya te imaginarás lo que hay que hacer. :sunglasses:
