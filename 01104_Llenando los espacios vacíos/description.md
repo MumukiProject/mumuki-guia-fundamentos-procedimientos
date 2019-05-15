@@ -1,4 +1,4 @@
-Entendamos qué acabamos de hacer. :hushed:
+Entendamos qué acabamos de hacer. :sweat_smile:
 
 Lo primero que hicimos fue declarar un procedimiento, pero con una pequeña diferencia: toma un _parámetro_, llamado `color`.
 
