@@ -15,4 +15,12 @@
    head 0 2
 </gs-board>
 
-> Definí, e invoca en un `program`, el procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero. El cabezal comienza en el origen, es decir, en el casillero de abajo a la izquierda.
+El cabezal comienza en el origen, es decir en el casillero de abajo a la izquierda:
+
+<gs-board>
+  GBB/1.0
+   size 3 3
+   head 0 0
+</gs-board>
+
+> Definí, e invoca en un `program`, el procedimiento `DibujarCuadradoNegroDeLado3` que, usando `DibujarLineaNegra3`, dibuje un cuadrado negro sobre el tablero.
