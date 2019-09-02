@@ -6,3 +6,9 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: DibujarLineaAzul3
   inspection: Uses:VolverAtras
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarLineaRoja3
+  inspection: UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarLineaAzul3
+  inspection: UsesRepeat
