@@ -15,7 +15,7 @@
    head 0 2
 </gs-board>
 
-El cabezal comienza en el origen, es decir en el casillero de abajo a la izquierda:
+El cabezal comienza en el origen, es decir, en el casillero de abajo a la izquierda:
 
 <gs-board>
   GBB/1.0
