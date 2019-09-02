@@ -6,3 +6,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
   inspection: HasUsage:Poner3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Poner3
+  inspection: UsesRepeat
