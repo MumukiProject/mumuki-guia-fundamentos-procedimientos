@@ -3,7 +3,7 @@
 ```gobstones
 procedure Poner3(color) {
   repeat(3) {
-  Poner(color)
+    Poner(color)
   }
 }
 ```
