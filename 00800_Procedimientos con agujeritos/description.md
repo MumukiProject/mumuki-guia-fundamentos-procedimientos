@@ -17,5 +17,5 @@ program {
 }
 ```
 
-> Escribí los códigos anteriores en el editor y fijate qué pasa. :eyes:
+> Copia **los dos** códigos anteriores en el editor y fijate qué pasa. :eyes:
 
