@@ -2,7 +2,7 @@
 rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: submission_passed_with_warnings
-  then: 'simplemente copiá los dos códigos **textualmente** y no te olvides de _repeat_
+  then: 'simplemente copiá los dos códigos **textualmente** y no te olvides del _repeat_
     :smile:'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: submission_errored
