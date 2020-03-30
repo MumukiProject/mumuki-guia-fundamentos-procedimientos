@@ -2,13 +2,13 @@
 rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: submission_passed_with_warnings
-  then: 'simplemente copiá los **dos códigos** textualmente y no te olvides de _repeat_
+  then: 'simplemente copiá los dos códigos **textualmente** y no te olvides de _repeat_
     :smile:'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: submission_errored
-  then: 'simplemente copiá los **dos códigos** textualmente y no te olvides de ninguna
+  then: 'simplemente copiá los dos códigos **textualmente** y no te olvides de ninguna
     llave ni paréntesis :smile:'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: submission_failed
-  then: 'simplemente copiá los **dos códigos** textualmente y no te olvides de ninguna
+  then: 'simplemente copiá los dos códigos **textualmente** y no te olvides de ninguna
     linea :smile:'
