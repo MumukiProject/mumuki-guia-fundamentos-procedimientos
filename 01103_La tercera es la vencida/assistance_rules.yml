@@ -3,5 +3,5 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     error_contains: 'Conflicto de nombres:'
-  then: 'Cuidado :warning:: los parámetros de un procedimiento tienen que tener _nombres
+  then: 'cuidado :warning:: los parámetros de un procedimiento tienen que tener _nombres
     diferentes_, por ejemplo `primerColor`, `segundoColor` y `tercerColor`'
