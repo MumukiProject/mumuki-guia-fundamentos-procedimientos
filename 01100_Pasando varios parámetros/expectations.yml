@@ -5,4 +5,4 @@ expectations:
   inspection: Not:HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
-  inspection: HasUsage:DibujarLinea3
+  inspection: Uses:DibujarLinea3
